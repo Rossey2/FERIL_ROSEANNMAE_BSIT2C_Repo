@@ -32,11 +32,11 @@
 
 function bark(name, weight) {
     if (weight > 20) {
-        console.log(name + "says Meow Woof");
+        console.log(name + " says arf arf");
     } else {
-        console.log(name + "says Meow Woof")
+        console.log(name + " says Meow meow")
     }
 }
 
 bark("Tisay ", 23);
-bark("Ponzi ", 23);
+bark("Ponzi ", 15);
